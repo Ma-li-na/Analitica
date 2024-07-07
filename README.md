@@ -1,4 +1,5 @@
 # Aналитика
+### Здесь представлена краткая выжимка из отчета, отчет предаставлен в документе отчет.docx
 ## Задание 1
 ### <img width="621" alt="4" src="https://github.com/Ma-li-na/Analitica/assets/174958120/6cc5135d-c1d4-4d07-8da7-c8103ed5fc2b">
 ## Задание 2
@@ -15,8 +16,13 @@
 ## Задание 3
 ### Главный экран
 ### ![image](https://github.com/Ma-li-na/Analitica/assets/174958120/696f8316-1e41-4753-89d2-e9a1aa1cb00d)
-### 
+### Экран результатов поиска
+### ![image](https://github.com/Ma-li-na/Analitica/assets/174958120/f3792db0-e978-4912-8ce5-debeda2223e2)
+### Экран добавление товара в корзину
+### ![image](https://github.com/Ma-li-na/Analitica/assets/174958120/0d87e732-85f1-4d10-8f9b-39fb537e7670)
+## Задание 4
 ###
-##
+###
+###
 ###
 
