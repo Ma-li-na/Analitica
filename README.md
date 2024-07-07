@@ -21,8 +21,14 @@
 ### Экран добавление товара в корзину
 ### ![image](https://github.com/Ma-li-na/Analitica/assets/174958120/0d87e732-85f1-4d10-8f9b-39fb537e7670)
 ## Задание 4
-###
-###
-###
-###
+### Прототип
+### ![image](https://github.com/Ma-li-na/Analitica/assets/174958120/72752570-6214-4753-89c6-2794ecb2c02f)
+### BPMN диаграмма
+### ![image](https://github.com/Ma-li-na/Analitica/assets/174958120/27d1e760-3000-48d3-bc50-2f7b672dfac6)
+### UML Sequence
+### ![image](https://github.com/Ma-li-na/Analitica/assets/174958120/fae4ce0e-e3ab-4d22-9c1a-9ab82f596fa2)
+### ER-модель
+### ![image](https://github.com/Ma-li-na/Analitica/assets/174958120/18c85591-ebd9-4f33-94cb-24dfd38c0369)
+
+
 
